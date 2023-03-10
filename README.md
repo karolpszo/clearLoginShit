@@ -1,5 +1,4 @@
 ![alt text](https://img.shields.io/badge/Release-Stable-green)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/karolpszo)
 # clearLoginShit
 ### clearLoginShit is a very lightweight AppleScript program that, with a single click, eliminates all of the notification popups on macOS.
 ### This software is intended for those who experience the LoginItems popup bug or who have too many notifications on their Macs.
