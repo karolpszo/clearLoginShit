@@ -1,4 +1,5 @@
 ![alt text](https://img.shields.io/badge/Release-Stable-green)
+[![Download clearLoginShit](https://img.shields.io/sourceforge/dm/clearloginshit.svg)](https://sourceforge.net/projects/clearloginshit/files/latest/download)
 # clearLoginShit
 ### clearLoginShit is a very lightweight AppleScript program that, with a single click, eliminates all of the notification popups on macOS.
 ### This software is intended for those who experience the LoginItems popup bug or who have too many notifications on their Macs.
@@ -10,3 +11,6 @@
 
 ### Send me a contribution if you'd like to support my efforts: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/karolpszo)
+
+### Available on
+<a href="https://sourceforge.net/p/clearloginshit/"><img alt="Download clearLoginShit" src="https://sourceforge.net/sflogo.php?type=17&group_id=3611141" width=200></a>
