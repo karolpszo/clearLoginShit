@@ -1,22 +1,27 @@
-![alt text](https://img.shields.io/badge/Release-Stable-green)
-[![Download clearLoginShit](https://img.shields.io/sourceforge/dm/clearloginshit.svg)](https://sourceforge.net/projects/clearloginshit/files/latest/download)
-# notificationsBeGONE for macOS
-#### Read this text in: [Polish](https://github.com/karolpszo/notificationsbegone/blob/main/README-pl.md) | [German/Deutsch](https://github.com/karolpszo/notificationsbegone/blob/main/README-de.md)
-### notificationsBeGONE is a very lightweight AppleScript program that eliminates all of the notification popups on macOS in a single click.
-### This software is intended for those who experience the LoginItems popup bug or who have too many notifications on their Macs.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
+# notificationsBeGONE for macOS
+#### Read this text in: [Polish :poland: ](https://github.com/karolpszo/notificationsbegone/blob/main/README-pl.md) | [German/Deutsch :de:](https://github.com/karolpszo/notificationsbegone/blob/main/README-de.md)
++ **notificationsBeGONE is a very lightweight :feather: AppleScript program that eliminates all of the notification popups on macOS in a single click.**
++ **This software is intended for those who experience the LoginItems popup bug or who have too many notifications on their Macs.**
++ **You can launch this program from Programs using a folder or Spotlight, or you can add it to macOS' Login Items to make it work after login.**
+### Please leave a star :star: on this software if it meets all of your needs.
 ![applogo](https://i.imgur.com/mnm2GrD.png)
 
-### You can launch this program from Programs using a folder or Spotlight, or you can add it to macOS' Login Items to make it work after login.
-### Please leave a star on this software if it meets all of your needs.
+-------------------------------------------------------------------------------------------------------------------------------------------
+## Main problems, issues and to-do tasks:
+- [x] :green_square: :hammer: Software won't close notifications on macOS with Polish language set (Issue #1)
+- [x] :green_square: :hammer: Change word "Schlie§en" to "Schließen" in notificationsbegone.scpt and notificationsBeGONE.app (Issue #2)
+- [ ] :pen: Add more languages 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-### Send me a contribution if you'd like to support my efforts: 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/karolpszo)
-
-### Available also on
-<a href="https://sourceforge.net/p/clearloginshit/"><img alt="Download clearLoginShit" src="https://sourceforge.net/sflogo.php?type=17&group_id=3611141" width=200></a>
-<p></p>
-<a href="https://www.producthunt.com/posts/notificationsbegone?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notificationsbegone" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=383524&theme=light" alt="notificationsBeGONE - Makes&#0032;your&#0032;work&#0032;flawless&#0044;&#0032;without&#0032;distractions&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-<p></p>
-
-IF YOU WANT TO TRANSLATE THIS README.md FILE TO OTHER LANGUAGES, CREATE AN ISSUE ON THIS PROJECT.
+## Important news :newspaper: :warning:
+> When you'll look :eyes: into notificationsbegone.scpt file, in line 8:
+```
+if description of _action is in {"Schlie§en", "Alle entfernen", "Zamknij", "Close", "Clear All"} then 
+```
+> You'll see, that this software works only in 3 macOS System languages: **German, Polish and English.** I want to make this software available for all of the GitHub and Macs community, so if you want to help with software translation, open an Issue with your fix.
+### What do I need?! The only thing I need is translation of a word, that closes notifications.
+![a](https://user-images.githubusercontent.com/111112623/224505336-015febd8-0c16-4b8d-810a-3369b2ed8e2b.png) 
+#### In English :gb:, it is **close**,   in Polish :poland: - **Zamknij**,    and in German :de: - **Schließen**.
+-------------------------------------------------------------------------------------------------------------------------------------------
