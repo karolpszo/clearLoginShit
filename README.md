@@ -25,5 +25,5 @@ if description of _action is in {"Schlie§en", "Alle entfernen", "Zamknij", "Clo
 ![a](https://user-images.githubusercontent.com/111112623/224505336-015febd8-0c16-4b8d-810a-3369b2ed8e2b.png) 
 #### In English :gb:, it is **close**,   in Polish :poland: - **Zamknij**,    and in German :de: - **Schließen**.
 -------------------------------------------------------------------------------------------------------------------------------------------
-### Wesprzyj pracę nad programem! :black_heart:
+### Wesprzyj pracę nad programem! | Support app development! | Unterstützen Sie die Arbeit des Programms! | :black_heart:
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/karolpszo)
