@@ -13,7 +13,10 @@
 ### Send me a contribution if you'd like to support my efforts: 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.com/karolpszo)
 
-### Available on
+### Available also on
 <a href="https://sourceforge.net/p/clearloginshit/"><img alt="Download clearLoginShit" src="https://sourceforge.net/sflogo.php?type=17&group_id=3611141" width=200></a>
-### 
+<p></p>
+<a href="https://www.producthunt.com/posts/notificationsbegone?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notificationsbegone" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=383524&theme=light" alt="notificationsBeGONE - Makes&#0032;your&#0032;work&#0032;flawless&#0044;&#0032;without&#0032;distractions&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<p></p>
+
 IF YOU WANT TO TRANSLATE THIS README.md FILE TO OTHER LANGUAGES, CREATE AN ISSUE ON THIS PROJECT.
