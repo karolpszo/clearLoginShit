@@ -18,7 +18,7 @@
 ## Important news :newspaper: :warning:
 > When you'll look :eyes: into notificationsbegone.scpt file, in line 8:
 ```
-if description of _action is in {"Schlie§en", "Alle entfernen", "Zamknij", "Close", "Clear All"} then 
+if description of _action is in {"Schlie§en", "Alle entfernen", "Wymaż wszystko", "Zamknij", "Close", "Clear All"} then 
 ```
 > You'll see, that this software works only in 3 macOS System languages: **German, Polish and English.** I want to make this software available for all of the GitHub and Macs community, so if you want to help with software translation, open an Issue with your fix.
 ### What do I need?! The only thing I need is translation of a word, that closes notifications.
