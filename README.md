@@ -1,3 +1,4 @@
+# Since I've stopped using Apple ecosystem, I do not provide support to this app anymore. Repository is now archived.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 # notificationsBeGONE for macOS
